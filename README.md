@@ -12,3 +12,20 @@ The objective is to provide a comprehensive, visually appealing summary of key p
 
 ![image alt](https://github.com/varshaluthra246/E-Commerce-Sales-Dashboard/blob/main/power_Bi_project4_ss.png)
 
+# 🖊️Key insights-
+
+✅ Analysed e-commerce data for a store sales records to uncover valuable business insights.
+✅ Designed an interactive dashboard for easy decision-making.
+✅ The dashboard uses a purple background with contrasting vibrant colors for charts and KPIs, making it visually striking.
+✅ Each visual is clearly labeled for easy comprehension, and data insights are displayed prominently.
+
+# 💡 What I Learned:
+
+📌Hands-on experience in Power BI for data visualization.
+📌 Use the state filter to drill down into geographical performance and identify areas for growth.
+📌 Improved skills in data storytelling to drive actionable insights.
+📌 Gained industry exposure in business intelligence & analytics.
+
+# Conclusion-
+
+Demonstrated interactive Power Bi Dashboard gave us the key insights which is useful for data-driven decisions. Thus, transferred the raw data into meaningful insights.
