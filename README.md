@@ -9,3 +9,5 @@ Dataset Name - "Data Model - Madhav_Store.xlsx" and "Data Model - Madhav_Store2.
 <br>
 # Objective -
 The objective is to provide a comprehensive, visually appealing summary of key performance indicators (KPIs) and insights related to an e-commerce business's sales, profitability, and product performance.
+
+![image alt](https://github.com/Sakshi166s/Pizza-sales-dashboard/blob/904a99ff2e45c0449a8a846019e5bbab5e8c5ccf/Dashboard.png)
